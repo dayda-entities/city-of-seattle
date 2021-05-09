@@ -1,0 +1,22 @@
+---
+title: City Annual Stats
+created: '2020-11-10T16:58:59.955274'
+modified: '2020-11-10T16:58:59.955285'
+state: active
+type: dataset
+tags:
+  - Employment
+  - Housing
+  - Jobs
+  - Planning
+  - Population
+groups:
+  - Local Government
+csv_url: >-
+  https://data-seattlecitygis.opendata.arcgis.com/datasets/0920ecc5b00446629b55fd7e668d9b97_3.csv?outSR=%7B%22latestWkid%22%3A2926%2C%22wkid%22%3A2926%7D
+json_url: >-
+  https://services.arcgis.com/ZOyb2t4B0UYuYNYH/arcgis/rest/services/Front_Page_Dashboard_Data/FeatureServer/3
+layout: post
+
+---
+Tabular data that powers basic monitoring dashboards for population, housing and jobs.<div><br /></div><div>Sources include: </div><div><span style='box-sizing:border-box; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:12px;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box; color:rgb(0, 0, 0);'><span style='box-sizing:border-box; font-family:&quot;Avenir Light&quot;, Verdana, Geneva, sans-serif;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box; font-family:Arial;'><font style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box; color:rgb(34, 34, 34);'><span style='box-sizing:border-box;'><span style='box-sizing:border-box; font-size:small;'><font style='box-sizing:border-box;'>For population and housing the April 1 official population estimates are produced by the <a href='https://www.ofm.wa.gov/washington-data-research/population-demographics/population-estimates/april-1-official-population-estimates' rel='nofollow ugc' style='box-sizing:border-box; text-decoration-line:none; color:rgb(0, 121, 193);'>Washington State Office of Financial Management</a> (OFM).  OFM population estimates</font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style='box-sizing:border-box; color:rgb(26, 26, 26);'><span style='box-sizing:border-box; font-family:&quot;Avenir Light&quot;, Verdana, Geneva, sans-serif;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box; font-family:Arial;'><font style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box;'><span style='box-sizing:border-box; font-size:small;'><font style='box-sizing:border-box;'> </font></span></span></span></font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style='box-sizing:border-box; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px; color:rgb(26, 26, 26);'>are cited in numerous statutes using population as criteria for fund allocations, program eligibility, or program operations, and as criteria for determining county participation under the Growth Management Act.</span><br /></div><div><span style='box-sizing:border-box; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px; color:rgb(26, 26, 26);'><br /></span></div><div><div style='box-sizing: border-box; line-height: normal; overflow-wrap: break-word; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14px; margin: 0px; padding: 0px;'><span style='box-sizing: border-box; line-height: normal; overflow-
