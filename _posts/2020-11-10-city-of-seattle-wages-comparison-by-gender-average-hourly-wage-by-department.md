@@ -1,7 +1,7 @@
 ---
 title: City of Seattle Wages Comparison by Gender - Average Hourly Wage by Department
-created: '2020-11-10T16:59:33.491804'
-modified: '2020-11-10T16:59:33.491815'
+created: '2020-11-10T16:59:02.840194'
+modified: '2020-11-10T16:59:02.840205'
 state: active
 type: dataset
 tags:
@@ -16,8 +16,8 @@ tags:
   - Wages
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/j379-aghh/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/j379-aghh/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/5jqs-k4qf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/5jqs-k4qf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
