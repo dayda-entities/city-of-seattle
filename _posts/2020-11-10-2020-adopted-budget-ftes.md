@@ -1,0 +1,16 @@
+---
+title: 2020 Adopted Budget - FTEs
+created: '2020-11-10T16:59:25.331821'
+modified: '2020-11-10T16:59:25.331828'
+state: active
+type: dataset
+tags:
+  - 2020 Adopted Budget
+groups:
+  - Local Government
+csv_url: 'https://data.seattle.gov/api/views/f946-y5wg/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/f946-y5wg/rows.json?accessType=DOWNLOAD'
+layout: post
+
+---
+2020 Adopted Budget Full Time Employees
