@@ -1,20 +1,20 @@
 ---
-title: Seattle Parks And Recreation Park Addresses
-created: '2020-11-10T16:59:59.141735'
-modified: '2020-11-10T16:59:59.141745'
+title: Seattle Parks and Recreation Parks Features
+created: '2020-11-10T16:58:54.489267'
+modified: '2020-11-10T16:58:54.489274'
 state: active
 type: dataset
 tags:
-  - Address
   - Addresses
+  - Features
   - Parks
-  - Recreation
-  - Seattle
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/v5tj-kqhc/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/v5tj-kqhc/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/2cer-njie/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/2cer-njie/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation Park Addresses with X and Y coordinates
+Listing of all park features by park.  EX: if a park has multiple tennis courts each of them is included.
+
+PMAID is our Property Management Area ID. It is used by the City of Seattle to reference a group of adjoined land parcels into a larger area such as a park. This coding works well for Parks because most parks consist of multiple parcels. This number is assigned by the city. Other cities likely use a similar identifier, but not the same method as Seattle.
