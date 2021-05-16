@@ -1,35 +1,32 @@
 ---
-title: Seattle Parks and Recreation GIS Map Layer Shapefile - Soccer Field Outline
-created: '2020-11-10T16:59:47.671549'
-modified: '2020-11-10T16:59:47.671560'
+title: Seattle Parks and Recreation GIS Map Layer Shapefile - Park Boundary
+created: '2020-11-10T16:59:47.602332'
+modified: '2020-11-10T16:59:47.602345'
 state: active
 type: dataset
 tags:
+  - Boundary
   - Feature
-  - Field
   - Gis
   - Layer
   - Map
-  - Outline
   - Park
   - Parks
   - Recreation
   - Seattle
   - Shapefile
-  - Soccer
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/8yzb-kyxb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/8yzb-kyxb/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/n99g-k8uj/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/n99g-k8uj/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation GIS Map Layer Shapefile - Soccer Field Outline
-
-Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and 
-converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
+Seattle Parks and Recreation GIS Map Layer Shapefile - Park Boundary
+Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
 
 OR
 
-Web Services - Live "read only" data connection ESRI web services URL: 
-http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/40
+Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/55
+
+Official Park Boundary (may not coincide with Seattle Parks and Recreation Property Ownership)
