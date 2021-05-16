@@ -1,7 +1,7 @@
 ---
-title: WAT Owners Shift Reimbursement 2016
-created: '2020-11-10T16:59:13.010258'
-modified: '2020-11-10T16:59:13.010268'
+title: WAT Owners Shift Reimbursement 2019
+created: '2020-11-10T16:58:55.243945'
+modified: '2020-11-10T16:58:55.243956'
 state: active
 type: dataset
 tags:
@@ -9,9 +9,9 @@ tags:
   - Wheelchair
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/9zi7-r4xg/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/9zi7-r4xg/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/2n43-u3j9/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/2n43-u3j9/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset lists wheelchair accessible taxicab (WAT) owners who received reimbursements from the Wheelchair Accessible Services Fund for shifts operated between January 1 and December 30, 2016. The reimbursement amount is $15 per shift.
+This data set provides the total amount of reimbursements paid per wheelchair accessible taxi (WAT) owner for shifts operated between January 1 and December 30, 2019. Owners were paid $15/shift operated from the City of Seattle Wheelchair Accessible Services Fund.
