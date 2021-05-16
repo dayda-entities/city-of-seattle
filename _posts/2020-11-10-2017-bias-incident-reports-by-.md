@@ -1,7 +1,7 @@
 ---
-title: 2017 Bias Incident Reports By Protected Class
-created: '2020-11-10T16:59:23.065887'
-modified: '2020-11-10T16:59:23.065897'
+title: 2017 Bias Incident Reports By Type
+created: '2020-11-10T17:00:05.939865'
+modified: '2020-11-10T17:00:05.939876'
 state: active
 type: dataset
 tags:
@@ -9,13 +9,12 @@ tags:
   - Civil Rights
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/egbb-t9ve/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/egbb-t9ve/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/ynsu-ffu4/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/ynsu-ffu4/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-2017 Bias Incident Reports By Protected Class
-The Seattle Office for Civil Rights (SOCR) receives calls on the Bias Incident Reporting Line. Calls are received by front desk staff and logged. This dataset shows the amount of calls received each quarter of 2017 by protected class. A protected class is a characteristic of a person that is protected by the laws SOCR enforces such as race, gender identity, or disability. An “uncategorized” protected class means the caller did not provide a protected class.
+The Seattle Office for Civil Rights (SOCR) receives calls on the Bias Incident Reporting Line. Calls are received by front desk staff and logged. This dataset shows the amount of calls received each quarter of 2017 by type of report. An “uncategorized” type means the call did not fall into one of the listed categories or SOCR was unable to confirm the type of report. 
 
 If you have questions about this data or want to learn more about the laws SOCR enforces, call 206-684-4500 or visit http://www.seattle.gov/civilrights. 
 
