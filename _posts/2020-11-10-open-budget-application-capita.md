@@ -1,14 +1,14 @@
 ---
-title: Open Budget Application Capital Budget
-created: '2020-11-10T16:59:49.332114'
-modified: '2020-11-10T16:59:49.332121'
+title: Open Budget Application Capital Projects List
+created: '2020-11-10T16:59:53.498944'
+modified: '2020-11-10T16:59:53.498954'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/qi2h-j69m/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/qi2h-j69m/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/sar3-57ew/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/sar3-57ew/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
