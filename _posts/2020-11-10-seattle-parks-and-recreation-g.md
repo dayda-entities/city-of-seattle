@@ -1,11 +1,15 @@
 ---
-title: Seattle Parks and Recreation GIS Map Layer Shapefile - Park Bench
-created: '2020-11-10T16:59:54.708810'
-modified: '2020-11-10T16:59:54.708817'
+title: Seattle Parks and Recreation GIS Map Layer Shapefile - Small Craft Centers
+created: '2020-11-10T16:59:57.999531'
+modified: '2020-11-10T16:59:57.999539'
 state: active
 type: dataset
 tags:
-  - Bench
+  - Boat
+  - Boats
+  - Center
+  - Centers
+  - Craft
   - Feature
   - Gis
   - Layer
@@ -15,17 +19,19 @@ tags:
   - Recreation
   - Seattle
   - Shapefile
+  - Small
+  - Windsurfing
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/eckx-ewe2/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/eckx-ewe2/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/svbj-uhhe/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/svbj-uhhe/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation GIS Map Layer Shapefile - Park Bench
+Seattle Parks and Recreation GIS Map Layer Shapefile - Small Craft Centers
 
 Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
 
 OR
 
-Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/30
+Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/38
