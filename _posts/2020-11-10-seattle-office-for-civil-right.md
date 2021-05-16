@@ -1,7 +1,7 @@
 ---
-title: Seattle Office for Civil Rights Customer Inquiries By Month
-created: '2020-11-10T16:59:35.797879'
-modified: '2020-11-10T16:59:35.797890'
+title: Seattle Office for Civil Rights Technical Assistance By Month
+created: '2020-11-10T16:59:04.585663'
+modified: '2020-11-10T16:59:04.585673'
 state: active
 type: dataset
 tags:
@@ -9,9 +9,9 @@ tags:
   - Discrimination
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/k6nc-7s8x/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/k6nc-7s8x/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/6bfa-nwhf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/6bfa-nwhf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-An inquiry is counted when a customer contacts the Seattle Office for Civil Rights about a potential violation of civil rights laws. This dataset breaks down the amount of inquiries by month.
+The Enforcement Division provides technical assistance to businesses and other organizations on the laws enforced by the Seattle Office for Civil Rights. This dataset shows the number of times technical assistance was provided by month.
