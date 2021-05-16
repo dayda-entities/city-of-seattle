@@ -1,35 +1,29 @@
 ---
-title: Seattle Parks and Recreation GIS Map Layer Shapefile - Basketball Court Point
-created: '2020-11-10T16:59:13.226169'
-modified: '2020-11-10T16:59:13.226180'
+title: Seattle Parks and Recreation GIS Map Layer - Olmsted Parks
+created: '2020-11-10T16:59:18.254578'
+modified: '2020-11-10T16:59:18.254590'
 state: active
 type: dataset
 tags:
-  - Basketball
-  - Court
   - Feature
   - Gis
+  - Historic
+  - History
   - Layer
   - Map
+  - Olmsted
   - Park
   - Parks
-  - Point
   - Recreation
   - Seattle
   - Shapefile
-  - Sport
-  - Sports
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/dxss-26kb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/dxss-26kb/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/fa7k-e5bp/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/fa7k-e5bp/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation GIS Map Layer Shapefile - Basketball Court Point
+Seattle Parks and Recreation GIS Map Layer - Olmsted Parks
 
-Shape File - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
-
-OR
-
-Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/4
+Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
