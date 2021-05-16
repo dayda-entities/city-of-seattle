@@ -1,20 +1,20 @@
 ---
-title: Code Compliance Complaints by Year
-created: '2020-11-10T16:59:57.424028'
-modified: '2020-12-04T19:19:39.540751'
+title: Code Compliance Complaints by Month
+created: '2020-11-10T16:59:13.935525'
+modified: '2020-12-04T19:18:53.660174'
 state: active
 type: dataset
 tags:
-  - Code Compliance Complaints By Year
+  - Code Compliance Complaints By Month
   - Code Enforcement
   - Sdci
   - Seattle Department Of Construction And Inspections
-  - Type Of Complaint
+  - Type Of Complaints
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/ud3x-cvhp/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/ud3x-cvhp/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/afww-hv6u/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/afww-hv6u/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Code Compliance complaints by type per year. Sort the Year column by descending order to see the most recent years.
+Code Compliance complaints by type per month. Sort the Date column by descending order to see the most recent months.
