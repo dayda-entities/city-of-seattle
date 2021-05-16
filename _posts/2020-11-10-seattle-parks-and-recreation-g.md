@@ -1,35 +1,36 @@
 ---
-title: Seattle Parks and Recreation GIS Map Layer Shapefile - Volleyball Court Point
-created: '2020-11-10T16:59:16.623662'
-modified: '2020-11-10T16:59:16.623669'
+title: >-
+  Seattle Parks and Recreation GIS Map Layer Shapefile - Bocce Ball Court
+  Outline
+created: '2020-11-10T16:59:25.751097'
+modified: '2020-11-10T16:59:25.751108'
 state: active
 type: dataset
 tags:
+  - Ball
+  - Bocce
   - Court
   - Feature
   - Gis
   - Layer
   - Map
+  - Outline
   - Park
   - Parks
-  - Point
   - Recreation
   - Seattle
   - Shapefile
-  - Sport
-  - Sports
-  - Volleyball
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/qajs-seq4/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/qajs-seq4/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/6cd4-qt8k/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/6cd4-qt8k/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation GIS Map Layer Shapefile - Volleyball Court Point
+Seattle Parks and Recreation GIS Map Layer Shapefile - Bocce Ball Court Outline
 
 Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
 
 OR
 
-Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/51
+Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/8
