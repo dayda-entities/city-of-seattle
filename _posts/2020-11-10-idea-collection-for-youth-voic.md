@@ -1,21 +1,19 @@
 ---
-title: 'Idea Collection for Youth Voice, Youth Choice Participatory Budgeting - DON'
-created: '2020-11-10T16:59:30.238553'
-modified: '2020-11-10T16:59:30.238563'
+title: 'Idea Collection for Youth Voice, Youth Choice Participatory Budgeting Program'
+created: '2020-11-10T16:59:14.356748'
+modified: '2020-11-10T16:59:14.356755'
 state: active
 type: dataset
 tags:
-  - Don
-  - Idea
-  - Maag
-  - Nre
-  - Project
-  - Voice
+  - Community Engagement
+  - Community Investment
+  - Participatory Budgeting
   - Youth
+  - Youth Projects
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/hyeg-3jh7/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/hyeg-3jh7/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/aixp-hgxt/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/aixp-hgxt/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
