@@ -1,33 +1,33 @@
 ---
-title: Seattle Parks and Recreation GIS Map Layer Shapefile - Fire Pits
-created: '2020-11-10T16:58:55.269268'
-modified: '2020-11-10T16:58:55.269278'
+title: Seattle Parks and Recreation GIS Map Layer Shapefile - Adult Fitness Equipment
+created: '2020-11-10T16:58:55.097332'
+modified: '2020-11-10T16:58:55.097345'
 state: active
 type: dataset
 tags:
+  - Adult
+  - Equipment
   - Feature
-  - Fire
+  - Fitness
   - Gis
   - Layer
   - Map
   - Park
   - Parks
-  - Pit
-  - Pits
-  - Recreation
+  - Recreaton
   - Seattle
   - Shapefile
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/hrsc-g5tr/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/hrsc-g5tr/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/8epc-v8g9/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/8epc-v8g9/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation GIS Map Layer Shapefile - Fire Pits
+Seattle Parks and Recreation GIS Map Layer Shapefile - Adult Fitness Equipment
 
 Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
 
 OR
 
-Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/14
+Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/0
