@@ -1,20 +1,20 @@
 ---
-title: Code Compliance Violations by Month
-created: '2020-11-10T16:59:00.549080'
-modified: '2020-12-04T19:18:35.577011'
+title: Code Compliance Violations by Year
+created: '2020-11-10T16:58:58.412612'
+modified: '2020-12-04T19:18:34.143536'
 state: active
 type: dataset
 tags:
-  - Code Compliance Violations By Month
+  - Code Compliance Violations By Year
   - Code Enforcement
   - Sdci
   - Seattle Department Of Construction And Inspections
   - Type Of Violation
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/4m8w-zxcb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/4m8w-zxcb/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/3qih-4uwq/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/3qih-4uwq/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Number of code compliance violations, by type, by month since 2003. Sort the Date column in descending order to see the most recent months.
+Code Compliance violations by type per year. Sort the Year column by descending order to see the most recent years.
