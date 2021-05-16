@@ -1,7 +1,7 @@
 ---
-title: City of Seattle Wages  Comparison by Gender - Discretionary Pay Titles
-created: '2020-11-10T16:59:56.455979'
-modified: '2020-11-10T16:59:56.455986'
+title: City of Seattle Wages  Comparison by Gender - All Job Classifications
+created: '2020-11-10T16:59:18.178750'
+modified: '2020-11-10T16:59:18.178760'
 state: active
 type: dataset
 tags:
@@ -16,9 +16,9 @@ tags:
   - Wages
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/tptv-57gf/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/tptv-57gf/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/cf52-s8er/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/cf52-s8er/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Average hourly wages for women and men in the Discretionary Pay Program by job classification
+Average pay comparison of male and female wages by job classification (except Library job classes).  The data contains weighted average hourly pay rates for women and men and the average of all employee wages in the class.
