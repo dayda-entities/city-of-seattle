@@ -1,37 +1,35 @@
 ---
-title: Seattle Parks and Recreation GIS Map Layer Shapefile - Small Craft Centers
-created: '2020-11-10T16:59:57.999531'
-modified: '2020-11-10T16:59:57.999539'
+title: Seattle Parks and Recreation GIS Map Layer Shapefile - Public Art Outside Park
+created: '2020-11-10T17:00:01.481483'
+modified: '2020-11-10T17:00:01.481491'
 state: active
 type: dataset
 tags:
-  - Boat
-  - Boats
-  - Center
-  - Centers
-  - Craft
+  - Art
   - Feature
   - Gis
   - Layer
   - Map
+  - Outside
   - Park
   - Parks
+  - Public
   - Recreation
   - Seattle
   - Shapefile
-  - Small
-  - Windsurfing
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/svbj-uhhe/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/svbj-uhhe/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/mcca-4fpb/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/mcca-4fpb/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation GIS Map Layer Shapefile - Small Craft Centers
+Seattle Parks and Recreation GIS Map Layer Shapefile - Public Art Outside Park
 
-Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
+Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and 
+converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
 
 OR
 
-Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/38
+Web Services - Live "read only" data connection ESRI web services URL: 
+http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/34
