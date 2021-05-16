@@ -1,34 +1,33 @@
 ---
-title: Seattle Parks and Recreation GIS Map Layer Shapefile - Misc Court Outline
-created: '2020-11-10T16:59:28.734851'
-modified: '2020-11-10T16:59:28.734863'
+title: Seattle Parks and Recreation GIS Map Layer Shapefile - Horseshoe Pit Outline
+created: '2020-11-10T16:59:29.950759'
+modified: '2020-11-10T16:59:29.950770'
 state: active
 type: dataset
 tags:
-  - Court
   - Feature
-  - Four Square
   - Gis
+  - Horseshoe
   - Layer
   - Map
-  - Misc
+  - Outline
   - Park
   - Parks
+  - Pit
   - Recreation
   - Seattle
   - Shapefile
-  - Tetherball
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/a2rt-cng2/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/a2rt-cng2/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/e5zt-3h3q/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/e5zt-3h3q/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation GIS Map Layer Shapefile - Misc Court Outline
+Seattle Parks and Recreation GIS Map Layer Shapefile - Horseshoe Pit Outline
 
 Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
 
 OR
 
-Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/19
+Web Services - Live "read only" data connection ESRI web services URL: http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/25
