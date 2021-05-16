@@ -1,29 +1,34 @@
 ---
-title: Seattle Parks and Recreation GIS Map Layer Shapefile - Trails
-created: '2020-11-10T16:59:05.040165'
-modified: '2020-11-10T16:59:05.040176'
+title: >-
+  Seattle Parks and Recreation GIS Map Layer Shapefile - Volleyball Court
+  Outline
+created: '2020-11-10T16:59:06.492653'
+modified: '2020-11-10T16:59:06.492664'
 state: active
 type: dataset
 tags:
+  - Court
   - Feature
   - Gis
   - Layer
   - Map
+  - Outline
   - Park
   - Parks
-  - Public
   - Recreation
   - Seattle
   - Shapefile
-  - Trails
+  - Sport
+  - Sports
+  - Volleyball
 groups:
   - Local Government
-csv_url: 'https://data.seattle.gov/api/views/vwtx-gvpm/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.seattle.gov/api/views/vwtx-gvpm/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.seattle.gov/api/views/wq8z-xgnk/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.seattle.gov/api/views/wq8z-xgnk/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Seattle Parks and Recreation GIS Map Layer Shapefile - Trails
+Seattle Parks and Recreation GIS Map Layer Shapefile - Volleyball Court Outline
 
 Shapefile - This Seattle Parks and Recreation ARCGIS park feature map layer was exported from SPU ARCGIS and 
 converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
@@ -31,9 +36,4 @@ converted to a shapefile then manually uploaded to data.seattle.gov via Socrata.
 OR
 
 Web Services - Live "read only" data connection ESRI web services URL: 
-http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/50
-
-TRAIL_CLASS
-0 = Unverified
-1 = Verified
-** Created from maintenance data
+http://gisrevprxy.seattle.gov/arcgis/rest/services/DPR_EXT/ParksExternalWebsite/MapServer/52
