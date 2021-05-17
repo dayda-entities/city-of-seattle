@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://upload.wikimedia.org/wikipedia/en/0/04/City_of_Seattle%E2%80%94Seal.png
+profile_pic: 'https://directory.dayda.org/assets/img/entities/city-of-seattle.png'
 favicon: /assets/img/favicon.png
 url: 'http://city-of-seattle.dayda.org'
 encoding: utf-8
